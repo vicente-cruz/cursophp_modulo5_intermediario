@@ -1,0 +1,21 @@
+Exemplo de estrutura:
+Usuário Sistema
+    Usuário 1
+    Usuário 2
+        Usuário 2_1
+            Usuário 2_1_1
+                Usuário 2_1_1_1
+                    Usuário 2_1_1_1_1
+        Usuário 2_2
+
+Condições:
+Iniciante = 0 cadastros
+Júnior  = 1 cadastro
+Diretor = 3
+Diretor Senior = 5
+Executivo = 10
+
+Terafas:
+Login na Conta e Cadastro
+Listar os meus cadastros até o nível N
+Script para atualizar as patentes
